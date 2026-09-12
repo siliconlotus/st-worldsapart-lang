@@ -6,4 +6,4 @@ from [wordfreq](https://github.com/rspeer/wordfreq) by Robyn Speer. The data is
 Books Ngrams, Wikipedia, OPUS OpenSubtitles 2018, ParaCrawl, the Leeds Internet Corpus and the SUBTLEX
 word lists by Marc Brysbaert et al., freely available data credited as wordfreq requires.
 
-`packs.json` is the index the extension reads. Adding a language is one build and a push.
+`packs.json` is the index the extension reads; each language is `wa-pack-<lang>.json`. Adding a language is one build and a push.
