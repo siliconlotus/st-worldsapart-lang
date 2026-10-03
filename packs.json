@@ -1,27 +1,27 @@
 {
  "es": {
   "label": "Español",
-  "bytes": 346920,
-  "hash": "d991f5e1f468cad3e933642c8fd46795283287b5cb29eec1f5e54c16eddb7c72"
+  "bytes": 346991,
+  "hash": "9941574eaadc58ee4e1c49de92f35217aa3420811f1e86349a2f1dc6d584df39"
  },
  "fr": {
   "label": "Français",
-  "bytes": 311396,
-  "hash": "6f378a1bfb62eb4242d2c694ac2244f7c19e43c0aad86918d49ce414111ddcd8"
+  "bytes": 311467,
+  "hash": "1f0381b5b9cea2f757a4db512bf71d00a53b24263b6246316363eee4b482f337"
  },
  "pl": {
   "label": "Polski",
-  "bytes": 516055,
-  "hash": "26f55a5f1f62b58ad7245dbb7d85a63f8e07177bdf5f91ae359455e0ee6a5fa9"
+  "bytes": 516126,
+  "hash": "5af2aae2a62416839043461be292f01bba23ee3012bbc3f52933f4b72c4f662e"
  },
  "pt": {
   "label": "Português",
-  "bytes": 323797,
-  "hash": "2fe448c0b28fa9d6225eb3a2fee651badf0778b45f2d27b4215b67b2d87b04c8"
+  "bytes": 323868,
+  "hash": "77e38ba500b5b4f166d994f509610944ad543d3dc8e83835a948589f9212c96c"
  },
  "ru": {
   "label": "Русский",
-  "bytes": 1161985,
-  "hash": "059a18ddf5c7680c4ecac307e876f84c1afb4bd7cd6474f464c776c6917f75ce"
+  "bytes": 1162056,
+  "hash": "faea083fee5fd1bd8d8a6c316bef042c97ddad370329934d4c85ffe6513c8057"
  }
 }
